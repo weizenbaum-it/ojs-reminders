@@ -1,0 +1,74 @@
+msgid "plugins.generic.reviewReminders.name"
+msgstr "Extended Review Reminders"
+
+msgid "plugins.generic.reviewReminders.description"
+msgstr "Allows for setting up several automated reminders for submitting reviews to be sent at specific times."
+
+msgid "plugins.generic.reviewReminders.menuTitle"
+msgstr "Review Reminders"
+
+msgid "plugins.generic.reviewReminders.remindersListTitle"
+msgstr "Scheduled Reminders"
+
+msgid "plugins.generic.reviewReminders.remindersTitle"
+msgstr "{$numberOfDays} days {$beforeOrAfter} the {$deadline}"
+
+msgid "plugins.generic.reviewReminders.remindersSubtitle"
+msgstr "Email template to send: {$templateId}"
+
+msgid "plugins.generic.reviewReminders.before"
+msgstr "before"
+
+msgid "plugins.generic.reviewReminders.after"
+msgstr "after"
+
+msgid "plugins.generic.reviewReminders.form.days.label"
+msgstr "Number of Days"
+
+msgid "plugins.generic.reviewReminders.form.days.description"
+msgstr "The Number of Days before or after the deadline, when this email should be sent"
+
+msgid "plugins.generic.reviewReminders.form.beforeOrAfter.label"
+msgstr "Before or After the Deadline"
+
+msgid "plugins.generic.reviewReminders.form.beforeOrAfter.description"
+msgstr "Whether this Reminder should be sent before or after the deadline"
+
+msgid "plugins.generic.reviewReminders.form.beforeOrAfter.option.before"
+msgstr "Before"
+
+msgid "plugins.generic.reviewReminders.form.beforeOrAfter.option.after"
+msgstr "After"
+
+msgid "plugins.generic.reviewReminders.form.deadline.label"
+msgstr "Deadline"
+
+msgid "plugins.generic.reviewReminders.form.deadline.description"
+msgstr "Whether this Reminders applies to the Response Deadline or the Review Deadline"
+
+msgid "plugins.generic.reviewReminders.form.deadline.option.response"
+msgstr "Response Deadline"
+
+msgid "plugins.generic.reviewReminders.form.deadline.option.review"
+msgstr "Review Deadline"
+
+msgid "plugins.generic.reviewReminders.frontend.addLabel"
+msgstr "Add new Reminder"
+
+msgid "plugins.generic.reviewReminders.frontend.editLabel"
+msgstr "Edit Reminder"
+
+msgid "plugins.generic.reviewReminders.frontend.deleteModalTitle"
+msgstr "Delete Reminder"
+
+msgid "plugins.generic.reviewReminders.frontend.deleteModalMessage"
+msgstr "Are you sure you want to delete this Reminder?"
+
+msgid "plugins.generic.reviewReminders.frontend.addButtonLabel"
+msgstr "Add Reminder"
+
+msgid "plugins.generic.reviewReminders.frontend.editButtonLabel"
+msgstr "Edit"
+
+msgid "plugins.generic.reviewReminders.frontend.deleteButtonLabel"
+msgstr "Delete"

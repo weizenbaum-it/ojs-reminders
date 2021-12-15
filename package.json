@@ -1,0 +1,20 @@
+{
+  "name": "reviewreminders",
+  "version": "1.0.0",
+  "description": "",
+  "main": "vue.config.js",
+  "dependencies": {
+    "@vue/cli-service": "^4.5.14",
+    "clone-deep": "^4.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "vue-cli-service build -t lib --watch",
+    "build": "vue-cli-service build -t lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.internal.enymo.com/taikomedia/ojs-review-plugin.git"
+  },
+  "author": "Taikomedia"
+}

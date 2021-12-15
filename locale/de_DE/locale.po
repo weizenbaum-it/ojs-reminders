@@ -1,0 +1,74 @@
+msgid "plugins.generic.reviewReminders.name"
+msgstr "Erweiterte Gutachten-Erinnerungen"
+
+msgid "plugins.generic.reviewReminders.description"
+msgstr "Erlaubt die Konfiguration mehrerer E-Mail-Erinnerungen zu verschiedenen Zeitpunkten für die Einreichung von Gutachten"
+
+msgid "plugins.generic.reviewReminders.menuTitle"
+msgstr "Gutachten-Erinnerungen"
+
+msgid "plugins.generic.reviewReminders.remindersListTitle"
+msgstr "Konfigurierte Erinnerungen"
+
+msgid "plugins.generic.reviewReminders.remindersTitle"
+msgstr "{$numberOfDays} Tage {$beforeOrAfter} der {$deadline}"
+
+msgid "plugins.generic.reviewReminders.remindersSubtitle"
+msgstr "Zu sendendes E-Mail-Template: {$templateId}"
+
+msgid "plugins.generic.reviewReminders.before"
+msgstr "vor"
+
+msgid "plugins.generic.reviewReminders.after"
+msgstr "nach"
+
+msgid "plugins.generic.reviewReminders.form.days.label"
+msgstr "Anzahl der Tage"
+
+msgid "plugins.generic.reviewReminders.form.days.description"
+msgstr "Die Zahl der Tage vor oder nach der Deadline, wenn diese Erinnerung gesendet werden soll"
+
+msgid "plugins.generic.reviewReminders.form.beforeOrAfter.label"
+msgstr "Vor oder nach der Deadline"
+
+msgid "plugins.generic.reviewReminders.form.beforeOrAfter.description"
+msgstr "Soll diese Erinnerung vor oder nach der Deadline versendet werden?"
+
+msgid "plugins.generic.reviewReminders.form.beforeOrAfter.option.before"
+msgstr "Davor"
+
+msgid "plugins.generic.reviewReminders.form.beforeOrAfter.option.after"
+msgstr "Danach"
+
+msgid "plugins.generic.reviewReminders.form.deadline.label"
+msgstr "Deadline"
+
+msgid "plugins.generic.reviewReminders.form.deadline.description"
+msgstr "Soll diese Erinnerung vor/nach der Antwort-Deadline oder der Fertigstellungs-Deadline versendet werden?"
+
+msgid "plugins.generic.reviewReminders.form.deadline.option.response"
+msgstr "Antwort-Deadline"
+
+msgid "plugins.generic.reviewReminders.form.deadline.option.review"
+msgstr "Fertigstellungs-Deadline"
+
+msgid "plugins.generic.reviewReminders.frontend.addLabel"
+msgstr "Neue Erinnerung hinzufügen"
+
+msgid "plugins.generic.reviewReminders.frontend.editLabel"
+msgstr "Erinnerung bearbeiten"
+
+msgid "plugins.generic.reviewReminders.frontend.deleteModalTitle"
+msgstr "Erinnerung löschen"
+
+msgid "plugins.generic.reviewReminders.frontend.deleteModalMessage"
+msgstr "Möchten Sie diese Erinnerung wirklich löschen"
+
+msgid "plugins.generic.reviewReminders.frontend.addButtonLabel"
+msgstr "Neue Erinnerung"
+
+msgid "plugins.generic.reviewReminders.frontend.editButtonLabel"
+msgstr "Bearbeiten"
+
+msgid "plugins.generic.reviewReminders.frontend.deleteButtonLabel"
+msgstr "Löschen"
