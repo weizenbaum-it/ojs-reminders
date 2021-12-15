@@ -4,7 +4,7 @@ A plugin for [OJS 3.3.0+](https://github.com/pkp/ojs), which allows users to con
 Reminders can be configured to be send at specific points in time before or after the response or review deadline respectively. Reminders can also be configured to use different built-in or custom email templates.
 
 ## Usage
-Download the current release [here] and install it by logging in as an admin and going to **Settings > Website > Plugins**, selecting **Upload A New Plugin** and then selecting the downloaded .tar.gz file.
+Download the current release [here](https://github.com/weizenbaum-it/ojs-reminders/releases/download/v1.0.0/reviewReminders-v1_0_0.tar.gz) and install it by logging in as an admin and going to **Settings > Website > Plugins**, selecting **Upload A New Plugin** and then selecting the downloaded .tar.gz file.
 
 ## Using development source
 Clone the repository into the following directory relative to the root of your OJS installation:
